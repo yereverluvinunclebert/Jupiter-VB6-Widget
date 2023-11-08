@@ -1,7 +1,7 @@
 # Jupiter-Widget-VB6
 The Steampunk Jupiter Desktop Widget, written in VB6 for Windows and ReactOS. Created for XP, Vista, Win7, 8, 10/11+, ReactOS as well as Linux or the Apple Mac's OS/X with Wine. This Jupiter Desktop Widget is an attractive and steamy VB6 widget for your desktop. This VB6 widget provides a simple moveable marble globe complete with rings
 
-![Jupiter](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/05c93fe8-0d61-4331-a77d-b680fd4c4086)
+![jupiter](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/bfaa8d62-0f58-4b0d-b822-22f22f18dbc1)
 
 The others are the Jupiter, Jupiter, Saturn and of course, 'God of War', the planet Jupiter. 
 Double-clicking on the planet will cause a personalised Windows application 
@@ -37,8 +37,7 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  This version was developed on Windows 7 using 32 bit VisualBasic 6 as a FOSS 
  project creating a WoW64 widget for the desktop.
 
-![Jupiter-help-750](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/629d7deb-2ac2-460b-8259-d7f06a3fa84e)
-
+![help-750](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/7402ff54-610b-4de3-8908-081ec1b51110)
 
  It is open source to allow easy configuration, bug-fixing, enhancement and 
  community contribution towards free-and-useful VB6 utilities that can be created
@@ -47,13 +46,11 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  is new VB6 widgets with more functionality and then hopefully, conversion of 
  each to RADBasic/TwinBasic for future-proofing and 64bit-ness. 
 
-![theWholeShebang](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/e037daf8-792e-4597-baec-4c218b158651)
-
+![theWholeShebang](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/d1c418da-c5ea-4caf-80b3-a0d844d9e1cf)
 
  This utility is one of a set of steampunk and dieselpunk widgets. That you can 
  find here on Deviantart: https://www.deviantart.com/yereverluvinuncleber/gallery
 
-![vb6-logo](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/d17f9120-7c35-4dce-bc7f-d9394d8118d1)
  
  I do hope you enjoy using this utility and others. Your own software 
  enhancements and contributions will be gratefully received if you choose to 
@@ -94,7 +91,8 @@ If you are just a casual user of desktop programs then simply download the SETUP
 	Windows 10 Home 64bit on AMD    
 	Windows 11 64bit on Intel  
 
-![about](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/71e0b04c-ec5c-4b5a-b3aa-6a045cdfadbb)
+![about](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/f8a80c9d-8b26-4124-8477-db990fbcc893)
+
 
  CREDITS:
  
@@ -213,7 +211,8 @@ If you are just a casual user of desktop programs then simply download the SETUP
  With regard to the commercial use of incorporated images, permission and a 
  licence would need to be obtained from the original owner and creator, ie. me.
 
-![desktop](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/8e088bd9-6f33-4dd8-9bfa-85051641ef98)
+![desktop](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/f60882c5-5d75-4239-a8fd-ee4879b5d2c1)
+
 
 
 
