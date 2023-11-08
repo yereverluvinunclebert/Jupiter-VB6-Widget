@@ -1,9 +1,9 @@
-# Uranus-Widget-VB6
-The Steampunk Uranus Desktop Widget, written in VB6 for Windows and ReactOS. Created for XP, Vista, Win7, 8, 10/11+, ReactOS as well as Linux or the Apple Mac's OS/X with Wine. This Uranus Desktop Widget is an attractive and steamy VB6 widget for your desktop. This VB6 widget provides a simple moveable marble globe complete with rings
+# Jupiter-Widget-VB6
+The Steampunk Jupiter Desktop Widget, written in VB6 for Windows and ReactOS. Created for XP, Vista, Win7, 8, 10/11+, ReactOS as well as Linux or the Apple Mac's OS/X with Wine. This Jupiter Desktop Widget is an attractive and steamy VB6 widget for your desktop. This VB6 widget provides a simple moveable marble globe complete with rings
 
-![uranus](https://github.com/yereverluvinunclebert/Uranus-VB6-Widget/assets/2788342/05c93fe8-0d61-4331-a77d-b680fd4c4086)
+![Jupiter](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/05c93fe8-0d61-4331-a77d-b680fd4c4086)
 
-The others are the Uranus, Jupiter, Saturn and of course, 'God of War', the planet Uranus. 
+The others are the Jupiter, Jupiter, Saturn and of course, 'God of War', the planet Jupiter. 
 Double-clicking on the planet will cause a personalised Windows application 
 to fire up. The first time you run it there will be no assigned function and so 
 it will state as such - then it will pop up the preferences so that you can enter 
@@ -18,7 +18,7 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
 
 ![orrery-desktop](https://github.com/yereverluvinunclebert/Jupiter-Widget/assets/2788342/38dd8b6c-32ed-4a51-9704-61b2246a9fec)
  
- The Uranus widget is an attractive dieselpunk VB6 widget for your desktop. Functional and gorgeous at the same time. The graphics are my own. It is all my code with some help from the chaps at VBForums (credits given). This Widget is a moveable widget that you can move anywhere around the desktop as you require.
+ The Jupiter widget is an attractive dieselpunk VB6 widget for your desktop. Functional and gorgeous at the same time. The graphics are my own. It is all my code with some help from the chaps at VBForums (credits given). This Widget is a moveable widget that you can move anywhere around the desktop as you require.
 
  This widget can be increased in size, animation speed can be changed, 
  opacity/transparency may be set as to the users discretion. The widget can 
@@ -31,13 +31,13 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  windows. Mouse hover over the widget and press CTRL+mousewheel up/down to resize. It works well on Windows XP 
  to Windows 11.
 
- The Uranus VB6 widget is Beta-grade software, under development, not yet 
+ The Jupiter VB6 widget is Beta-grade software, under development, not yet 
  ready to use on a production system - use at your own risk.
 
  This version was developed on Windows 7 using 32 bit VisualBasic 6 as a FOSS 
  project creating a WoW64 widget for the desktop.
 
-![Uranus-help-750](https://github.com/yereverluvinunclebert/Uranus-VB6-Widget/assets/2788342/629d7deb-2ac2-460b-8259-d7f06a3fa84e)
+![Jupiter-help-750](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/629d7deb-2ac2-460b-8259-d7f06a3fa84e)
 
 
  It is open source to allow easy configuration, bug-fixing, enhancement and 
@@ -47,13 +47,13 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  is new VB6 widgets with more functionality and then hopefully, conversion of 
  each to RADBasic/TwinBasic for future-proofing and 64bit-ness. 
 
-![theWholeShebang](https://github.com/yereverluvinunclebert/Uranus-VB6-Widget/assets/2788342/e037daf8-792e-4597-baec-4c218b158651)
+![theWholeShebang](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/e037daf8-792e-4597-baec-4c218b158651)
 
 
  This utility is one of a set of steampunk and dieselpunk widgets. That you can 
  find here on Deviantart: https://www.deviantart.com/yereverluvinuncleber/gallery
 
-![vb6-logo](https://github.com/yereverluvinunclebert/Uranus-VB6-Widget/assets/2788342/d17f9120-7c35-4dce-bc7f-d9394d8118d1)
+![vb6-logo](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/d17f9120-7c35-4dce-bc7f-d9394d8118d1)
  
  I do hope you enjoy using this utility and others. Your own software 
  enhancements and contributions will be gratefully received if you choose to 
@@ -94,7 +94,7 @@ If you are just a casual user of desktop programs then simply download the SETUP
 	Windows 10 Home 64bit on AMD    
 	Windows 11 64bit on Intel  
 
-![about](https://github.com/yereverluvinunclebert/Uranus-VB6-Widget/assets/2788342/71e0b04c-ec5c-4b5a-b3aa-6a045cdfadbb)
+![about](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/71e0b04c-ec5c-4b5a-b3aa-6a045cdfadbb)
 
  CREDITS:
  
@@ -147,9 +147,9 @@ If you are just a casual user of desktop programs then simply download the SETUP
  referenced using modRC6regfree.bas which is compiled into the binary.	
  
  
- Requires a Uranus folder in C:\Users\<user>\AppData\Roaming\ 
- eg: C:\Users\<user>\AppData\Roaming\Uranus
- Requires a settings.ini file to exist in C:\Users\<user>\AppData\Roaming\Uranus
+ Requires a Jupiter folder in C:\Users\<user>\AppData\Roaming\ 
+ eg: C:\Users\<user>\AppData\Roaming\Jupiter
+ Requires a settings.ini file to exist in C:\Users\<user>\AppData\Roaming\Jupiter
  The above will be created automatically by the compiled program when run for the 
  first time.
  
@@ -160,13 +160,13 @@ If you are just a casual user of desktop programs then simply download the SETUP
  * CCRSlider.ocx
  
  This OCX will reside in the program folder. The program reference to this OCX is 
- contained within the supplied resource file Uranus.RES. It is 
+ contained within the supplied resource file Jupiter.RES. It is 
  compiled into the binary.
  
  * OLEGuids.tlb
  
  This is a type library that defines types, object interfaces, and more specific 
- API definitions needed for COM interop / Uranushalling. It is only used at design 
+ API definitions needed for COM interop / Jupiterhalling. It is only used at design 
  time (IDE). This is a Krool-modified version of the original .tlb from the 
  vbaccelerator website. The .tlb is compiled into the executable.
  For the compiled .exe this is NOT a dependency, only during design time.
@@ -184,7 +184,7 @@ If you are just a casual user of desktop programs then simply download the SETUP
  * SETUP.EXE - The program is currently distributed using setup2go, a very useful 
  and comprehensive installer program that builds a .exe installer. Youll have to 
  find a copy of setup2go on the web as it is now abandonware. Contact me
- directly for a copy. The file "install Uranus 0.1.0.s2g" is the configuration 
+ directly for a copy. The file "install Jupiter 0.1.0.s2g" is the configuration 
  file for setup2go. When you build it will report any errors in the build.
  
  * HELP.CHM - the program documentation is built using the NVU HTML editor and 
@@ -213,7 +213,7 @@ If you are just a casual user of desktop programs then simply download the SETUP
  With regard to the commercial use of incorporated images, permission and a 
  licence would need to be obtained from the original owner and creator, ie. me.
 
-![desktop](https://github.com/yereverluvinunclebert/Uranus-VB6-Widget/assets/2788342/8e088bd9-6f33-4dd8-9bfa-85051641ef98)
+![desktop](https://github.com/yereverluvinunclebert/Jupiter-VB6-Widget/assets/2788342/8e088bd9-6f33-4dd8-9bfa-85051641ef98)
 
 
 
