@@ -39,7 +39,7 @@ Private mZoomDirection As String
 Private mLocked As Boolean
 Private mHidden As Boolean
 Private mOpacity As Double
-
+Private gblAllowSizeChangeFlg As Boolean
 
 
 ' property mZoom
@@ -339,6 +339,8 @@ Private Sub W_MouseWheel(ByVal MouseKeys As Long, ByVal Rotation As Long, ByVal 
         End If
         gblPlGaugeSize = LTrim$(Str$(planetWidget.Zoom * 100)) ' store the value dynamically
         sPutINISetting softwarePlanet, "gaugeSize", gblPlGaugeSize, gblPlSettingsFile
+        
+        If planetPrefs.IsVisible = True Then planetPrefs.sliGaugeSize = Val(gblPlGaugeSize)
     End Select
 
    On Error GoTo 0
